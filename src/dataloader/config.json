@@ -1,0 +1,6 @@
+{
+  "TRAIN": 0.8,
+  "VAL": 0.1,
+  "TEST": 0.1,
+  "BATCH SIZE": 64
+}
