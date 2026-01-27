@@ -1,0 +1,19 @@
+{
+  "batch_size": 32,
+  "q_depths": [
+    3
+  ],
+  "max_qubits": 8,
+  "dropout": 0.3,
+  "learning_rate": 0.0005,
+  "weight_decay": 0.001,
+  "max_epochs": 30,
+  "patience": 8,
+  "validate_every": 1,
+  "grad_clip": 1.0,
+  "use_class_weights": true,
+  "use_focal_loss": false,
+  "focal_alpha": 0.25,
+  "focal_gamma": 2.0,
+  "use_scheduler": true
+}
