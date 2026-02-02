@@ -193,7 +193,3 @@ Other useful knobs:
 * `config['batch_size']` (quantum simulation can be slow)
 * `config['use_focal_loss'] = True`
 * `config['grad_clip']`
-
-
-If you want, I can also generate a `requirements.txt` (or `environment.yml`) that matches your current imports exactly.
-```
