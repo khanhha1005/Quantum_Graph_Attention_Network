@@ -14,7 +14,7 @@ built with **PyTorch**, **PyTorch Geometric**, and **PennyLane** .
 
 - **Quantum-enhanced message passing**
   - Node embedding via **AngleEmbedding + (RY/RZ) + CZ ring entanglement + Pauli-Z readout**
-  - Edge attention via **HEA (RY/RZ + CNOT ladder + readout)** → scalar attention logit per edge
+  - Edge attention via **(RY/RZ + CNOT ladder + readout)** → scalar attention logit per edge
 - **Parameter-efficient and configurable**
   - Qubits: **4 / 8 / 16**
   - Quantum depth: **1 / 3 / 5** (grid search ready)
